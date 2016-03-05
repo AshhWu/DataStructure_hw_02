@@ -1,2 +1,2 @@
 # DataStructure_hw_02
-homework 2
+Generating permutations of a string without recursion
